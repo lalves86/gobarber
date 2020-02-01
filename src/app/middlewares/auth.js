@@ -1,3 +1,10 @@
+/*
+  Middleware de autenticação:
+  Verifica se um token é enviado no cabeçalho da requisição , verifica o token
+  e o inclui como um parâmetro no corpo da requisição
+  A verificação é feita usando o pacote jsonwebtoken
+*/
+
 import jwt from 'jsonwebtoken';
 import { promisify } from 'util';
 
