@@ -1,5 +1,3 @@
-![logo fastfeet](https://github.com/lalves86/fastfeet-api/blob/master/public/images/logo.png)
-
 # GoBarber
 
 Este projeto é parte do Bootcamp Gostack da [Rocketseat](https://github.com/Rocketseat).
