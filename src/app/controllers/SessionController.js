@@ -26,7 +26,7 @@ class SessionController {
         {
           model: File,
           as: 'avatar',
-          attributes: ['id', 'name', 'url'],
+          attributes: ['id', 'path', 'url'],
         },
       ],
     });
